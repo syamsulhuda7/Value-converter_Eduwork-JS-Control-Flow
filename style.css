@@ -1,0 +1,23 @@
+* {
+    padding: 0;
+    margin: 0;
+}
+
+.intro {
+    display: none;
+}
+
+.container {
+    display: none;
+    height: 100vh;
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.hasil {
+    padding: 30px;
+    font-size: 200px;
+}
